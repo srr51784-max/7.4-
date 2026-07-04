@@ -1,0 +1,9 @@
+[project]
+name = "taobao-product-image-generator"
+version = "0.1.0"
+description = "AI Skill and CLI for Taobao ecommerce product image generation prompts and API payloads."
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+taobao-media = "taobao_media_cli.cli:main"

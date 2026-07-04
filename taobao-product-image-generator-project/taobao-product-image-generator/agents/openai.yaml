@@ -1,0 +1,5 @@
+interface:
+  display_name: "Taobao Product Image Generator"
+  short_description: "Generate Taobao and ecommerce product image prompts and API requests."
+  icon: "🛒"
+  primary_color: "#1677ff"
