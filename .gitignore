@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+batch-payloads.json
+.DS_Store
